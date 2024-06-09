@@ -9,7 +9,7 @@
 
 #위치제어
 
-![위치제어](https://github.com/kroker22/Robotics4_Motor_con/assets/156269847/501c94d0-61f5-42dd-bce7-101f619c70ca)
+https://www.youtube.com/watch?v=Htjy6ISZfqQ&ab_channel=RolerKk
 
 
 #속도제어
