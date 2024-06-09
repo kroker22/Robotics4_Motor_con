@@ -13,9 +13,10 @@ https://www.youtube.com/watch?v=Htjy6ISZfqQ&ab_channel=RolerKk
 
 
 #속도제어
+https://www.youtube.com/watch?v=z7JXtfUsT30&ab_channel=RolerKk
 
-![속도제어](https://github.com/kroker22/Robotics4_Motor_con/assets/156269847/9ddd14c0-e372-4e18-9999-ca99f46f316c)
 
 #전류제어
+https://www.youtube.com/watch?v=xt-NdejRidA&ab_channel=RolerKk
 
-
+위의 링크에서 영상 확인해주세요
